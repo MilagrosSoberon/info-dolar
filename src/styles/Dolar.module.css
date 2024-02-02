@@ -1,0 +1,25 @@
+/* Estilo para el color del dolar */
+.dolar {
+    margin-top: 120px;
+    background-color: #79b259;
+    border-radius: 15%;
+    border-color: #446432;
+    border-width: 8px;
+    color: aliceblue;
+  }
+
+  .titulo {
+    font-size: 10em; 
+  font-family: 'Arial', sans-serif; 
+  color: #ffffff; 
+  text-shadow: 2px 2px 4px #000000;
+  background: linear-gradient(to right, #446432, #79b259);
+  border: 2px solid #85bb65; 
+  padding: 60px; 
+  transition: all 0.3s ease; 
+  }
+  
+  .titulo:hover {
+    color: #4ca77b; 
+    transform: scale(1.1); 
+  }
